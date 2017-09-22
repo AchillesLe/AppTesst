@@ -17,5 +17,9 @@ namespace AppTesst.DAO
             return "Hello World";
         }
 
+        public string HelloWorld_2()
+        {
+            return "Hello World";
+        }
     }
 }
