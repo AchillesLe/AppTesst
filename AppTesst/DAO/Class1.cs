@@ -41,5 +41,9 @@ namespace AppTesst.DAO
         {
             return "test1231231232";
         }
+        public string testhao()
+        {
+            return "Hao như shit....";
+        }
     }
 }
