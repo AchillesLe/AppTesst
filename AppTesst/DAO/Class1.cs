@@ -34,7 +34,7 @@ namespace AppTesst.DAO
         }
         public string HelloWorld_3()
         {
-            return "Hello World";
+            return "Hello World  AAAAAAAAA";
         }
     }
     class Class2
@@ -46,6 +46,10 @@ namespace AppTesst.DAO
         public string HelloWorld_3()
         {
             return "Hello World";
+        }
+        public string tessttststst()
+        {
+            return "test1231231232";
         }
     }
 }
