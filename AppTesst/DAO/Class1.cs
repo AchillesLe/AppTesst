@@ -23,9 +23,19 @@ namespace AppTesst.DAO
         }
         public string HelloWorld_3()
         {
+            return "Hello World";
+        }
+    }
+    class Class4
+    {
+        public string HelloWorld()
+        {
+            return "Hello World";
+        }
+        public string HelloWorld_3()
+        {
             return "Hello World  AAAAAAAAA";
         }
-
     }
     class Class2
     {
