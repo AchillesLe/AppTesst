@@ -26,7 +26,7 @@ namespace AppTesst.DAO
             return "Hello World";
         }
     }
-    class Class3
+    class Class4
     {
         public string HelloWorld()
         {
