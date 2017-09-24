@@ -17,4 +17,15 @@ namespace AppTesst.DAO
             return "Hello World";
         }
     }
+    class Class5
+    {
+        public string HelloWorld()
+        {
+            return "Hello World";
+        }
+        public string HelloWorld_2()
+        {
+            return "AAAA";
+        }
+    }
 }
