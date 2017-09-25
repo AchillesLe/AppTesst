@@ -24,5 +24,9 @@ namespace AppTesst.DAO
             {
                 return "Khang Nguyen";
             }
-        }
+            public string testKN2()
+            {
+                return "Khang Nguyen";
+            }
+    }
 }
