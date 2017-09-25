@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="DAO\Class1.cs" />
     <Compile Include="DAO\Class3.cs" />
+    <Compile Include="DAO\Class5.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
