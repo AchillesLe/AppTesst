@@ -55,5 +55,9 @@ namespace AppTesst.DAO
         {
             return "Hao như shit....";
         }
+        public string testKN()
+        {
+            return "Khang Nguyen";
+        }
     }
 }
